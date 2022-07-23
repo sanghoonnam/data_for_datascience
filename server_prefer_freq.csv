@@ -1,0 +1,47 @@
+,lang,freq
+0,aws,304
+1,docker,126
+2,api,106
+3,kubernetes,103
+4,spring,87
+5,git,83
+6,cloud,74
+7,ci cd,74
+8,msa,67
+9,gcp,65
+10,kafka,64
+11,java,63
+12,python,62
+13,redis,59
+14,react,57
+15,nosql,55
+16,github,54
+17,azure,49
+18,tdd,45
+19,framework,44
+20,linux,44
+21,mysql,43
+22,typescript,42
+23,docker kubernetes,42
+24,elasticsearch,41
+25,aws gcp,40
+26,mongodb,39
+27,django,39
+28,jira,39
+29,javascript,38
+30,jpa,38
+31,node js,38
+32,db,35
+33,architecture,34
+34,vue,33
+35,sql,32
+36,restful,32
+37,service,31
+38,kotlin,31
+39,jenkins,30
+40,rdbms,28
+41,php,27
+42,web,26
+43,confluence,25
+44,aws azure,25
+45,slack,24
