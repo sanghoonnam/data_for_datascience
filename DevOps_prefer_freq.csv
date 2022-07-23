@@ -1,0 +1,47 @@
+,lang,freq
+0,aws,75
+1,kubernetes,59
+2,ci cd,35
+3,terraform,31
+4,docker,25
+5,cloud,21
+6,iac,21
+7,python,21
+8,api,19
+9,ansible,18
+10,jenkins,14
+11,linux,13
+12,prometheus,13
+13,java,13
+14,as code,13
+15,gcp,12
+16,jira,12
+17,grafana,12
+18,infrastructure as,12
+19,azure,11
+20,elasticsearch,11
+21,msa,10
+22,kafka,10
+23,spring,10
+24,confluence,9
+25,mongodb,9
+26,ml,9
+27,nosql,9
+28,git,9
+29,terraform ansible,9
+30,idc,8
+31,container,8
+32,isms,8
+33,backend,8
+34,github,8
+35,os,8
+36,shell,8
+37,jira confluence,8
+38,typescript,7
+39,ecs,7
+40,mysql,7
+41,atlassian,7
+42,web,7
+43,rdbms,7
+44,aws gcp,7
+45,terraform iac,7
