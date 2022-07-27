@@ -1,0 +1,33 @@
+,lang,freq
+0,aws,55
+1,spark,29
+2,hadoop,28
+3,python,28
+4,docker,27
+5,ml,26
+6,kubernetes,24
+7,kafka,23
+8,ai,22
+9,gcp,19
+10,nosql,17
+11,bi,17
+12,tensorflow,16
+13,tableau,16
+14,pytorch,15
+15,etl,15
+16,sql,14
+17,azure,14
+18,cloud,13
+19,mlops,13
+20,google,11
+21,airflow,11
+22,java,11
+23,rdbms,11
+24,mysql,11
+25,c++,10
+26,ci cd,10
+27,machine learning,10
+28,postgresql,9
+29,aws azure,9
+30,hadoop spark,9
+31,aws gcp,9
