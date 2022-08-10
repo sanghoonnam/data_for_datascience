@@ -1,14 +1,14 @@
 ,lang,freq
-0,python,10
-1,linux,10
-2,c,8
-3,ble,6
-4,rtos,6
-5,ros2,5
-6,ap,4
-7,c++,4
-8,iot,4
-9,hw,4
+0,Python,10
+1,Linux,10
+2,C,8
+3,BLE,6
+4,RTOS,6
+5,ROS2,5
+6,AP,4
+7,C++,4
+8,IoT,4
+9,HW,4
 10,driver,4
 11,embedded sw,4
 12,firmware,3
