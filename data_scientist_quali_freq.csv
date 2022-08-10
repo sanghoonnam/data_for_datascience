@@ -1,15 +1,15 @@
 ,lang,freq
-0,python,105
-1,sql,59
-2,tensorflow,41
-3,pytorch,35
-4,ml,30
-5,pandas,17
-6,ai,17
-7,java,14
-8,c++,13
-9,spark,11
-10,dl,10
+0,Python,105
+1,SQL,59
+2,TensorFlow,41
+3,PyTorch,35
+4,ML,30
+5,Pandas,17
+6,AI,17
+7,Java,14
+8,C++,13
+9,Spark,11
+10,Deep Learning,10
 11,numpy,8
 12,scikit,8
 13,keras,8
