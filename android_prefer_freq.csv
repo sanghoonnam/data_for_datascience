@@ -1,6 +1,6 @@
 ,lang,freq
-0,Kotlin,50
-1,MVVM,40
+0,kotlin,50
+1,mvvm,40
 2,flutter,38
 3,react,37
 4,ui ux,35
@@ -31,10 +31,8 @@
 29,store,12
 30,confluence,12
 31,ci cd,12
-32,ios android,12
-33,jira confluence,12
-34,unit test,11
-35,clean architecture,11
-36,google,10
-37,sdk,10
-38,play,10
+32,jira confluence,12
+33,unit test,11
+34,clean architecture,11
+35,google,10
+36,play,10
