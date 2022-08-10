@@ -1,13 +1,13 @@
 ,lang,freq
-0,c,37
-1,c++,37
-2,linux,9
-3,mcu,7
-4,python,6
-5,os,6
-6,embedded linux,5
-7,firmware,4
-8,java,4
+0,C,37
+1,C++,37
+2,Linux,9
+3,MCU,7
+4,Python,6
+5,OS,6
+6,Embedded Linux,5
+7,Firmware,4
+8,Java,4
 9,driver,4
 10,git,3
 11,arm,3
