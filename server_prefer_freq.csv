@@ -1,20 +1,20 @@
 ,lang,freq
-0,aws,304
-1,docker,126
-2,api,106
-3,kubernetes,103
-4,spring,87
-5,git,83
-6,cloud,74
-7,ci cd,74
-8,msa,67
-9,gcp,65
-10,kafka,64
-11,java,63
-12,python,62
-13,redis,59
-14,react,57
-15,nosql,55
+0,AWS,304
+1,Docker,126
+2,API,106
+3,Kubernetes,103
+4,Spring,87
+5,Git,83
+6,Cloud,74
+7,CI CD,74
+8,MSA,67
+9,GCP,65
+10,Kafka,64
+11,Java,63
+12,Python,62
+13,Redis,59
+14,React,57
+15,NoSQL,55
 16,github,54
 17,azure,49
 18,tdd,45
