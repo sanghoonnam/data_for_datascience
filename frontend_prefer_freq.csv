@@ -1,17 +1,17 @@
 ,lang,freq
-0,react,197
-1,typescript,157
-2,aws,108
-3,git,73
-4,api,70
+0,React,197
+1,Typescript,157
+2,AWS,108
+3,Git,73
+4,API,70
 5,webpack,65
-6,javascript,64
-7,vue,56
-8,redux,55
-9,react native,54
-10,ssr,52
-11,ui ux,52
-12,next,50
+6,Javascript,64
+7,Vue,56
+8,Redux,55
+9,React Native,54
+10,SSR,52
+11,UI UX,52
+12,Next,50
 13,css,40
 14,spa,39
 15,ci cd,39
