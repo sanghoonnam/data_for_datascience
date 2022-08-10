@@ -1,19 +1,19 @@
 ,lang,freq
-0,swift,106
-1,react,54
-2,api,53
-3,flutter,47
-4,git,40
-5,react native,35
-6,restful,32
-7,c,27
-8,javascript,25
-9,ui ux,22
-10,mvvm,21
-11,objective c,21
-12,kotlin,18
-13,typescript,17
-14,rxswift,17
+0,Swift,106
+1,React,54
+2,API,53
+3,Flutter,47
+4,Git,40
+5,React Native,35
+6,RESTful,32
+7,C,27
+8,Javascript,25
+9,UI UX,22
+10,MVVM,21
+11,Objective C,21
+12,Kotlin,18
+13,Typescript,17
+14,RxSwift,17
 15,java,16
 16,rest,16
 17,c swift,14
