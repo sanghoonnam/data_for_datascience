@@ -1,17 +1,17 @@
 ,lang,freq
-0,aws,75
-1,kubernetes,59
-2,ci cd,35
-3,terraform,31
-4,docker,25
-5,cloud,21
-6,iac,21
-7,python,21
-8,api,19
-9,ansible,18
-10,jenkins,14
-11,linux,13
-12,prometheus,13
+0,AWS,75
+1,Kubernetes,59
+2,CI CD,35
+3,Terraform,31
+4,Docker,25
+5,Cloud,21
+6,IaC,21
+7,Python,21
+8,API,19
+9,Ansible,18
+10,Jenkins,14
+11,Linux,13
+12,Prometheus,13
 13,java,13
 14,as code,13
 15,gcp,12
