@@ -1,15 +1,15 @@
 ,lang,freq
-0,web3,16
-1,git,14
-2,defi,13
-3,aws,11
-4,web3 js,11
-5,dapp,9
-6,api,9
-7,nft,8
-8,solidity,8
-9,docker,7
-10,rust,7
+0,Web3,16
+1,Git,14
+2,DeFi,13
+3,AWS,11
+4,Web3.js,11
+5,Dapp,9
+6,API,9
+7,NFT,8
+8,Solidity,8
+9,Docker,7
+10,Rust,7
 11,github,7
 12,security,7
 13,distributed systems,7
