@@ -1,18 +1,18 @@
 ,lang,freq
-0,aws,83
-1,python,71
-2,linux,65
-3,kubernetes,33
-4,ci cd,32
-5,java,30
-6,docker,29
-7,azure,25
-8,cloud,25
-9,git,23
-10,gcp,21
-11,os,19
-12,node js,17
-13,terraform,16
+0,AWS,83
+1,Python,71
+2,Linux,65
+3,Kubernetes,33
+4,CI CD,32
+5,Java,30
+6,Docker,29
+7,Azure,25
+8,Cloud,25
+9,Git,23
+10,GCP,21
+11,OS,19
+12,Node js,17
+13,Terraform,16
 14,shell,16
 15,aws gcp,16
 16,mysql,15
