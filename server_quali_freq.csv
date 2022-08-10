@@ -1,16 +1,16 @@
 ,lang,freq
-0,java,270
-1,spring,247
-2,api,246
-3,aws,158
-4,python,155
-5,mysql,147
-6,git,139
-7,node js,134
-8,framework,133
-9,rdbms,123
-10,javascript,116
-11,restful,111
+0,Java,270
+1,Spring,247
+2,API,246
+3,AWS,158
+4,Python,155
+5,MySQL,147
+6,Git,139
+7,Node.js,134
+8,Framework,133
+9,RDBMS,123
+10,Javascript,116
+11,RESTful,111
 12,java spring,107
 13,restful api,106
 14,linux,96
