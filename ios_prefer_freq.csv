@@ -1,20 +1,20 @@
 ,lang,freq
-0,swift,36
-1,react,35
-2,rxswift,33
-3,flutter,33
-4,mvvm,29
-5,git,28
-6,ui ux,26
-7,c,25
-8,kotlin,20
-9,react native,20
-10,api,19
-11,objective c,17
-12,firebase,15
-13,java,14
-14,swiftui,14
-15,jira,14
+0,Swift,36
+1,React,35
+2,RxSwift,33
+3,Flutter,33
+4,MVVM,29
+5,Git,28
+6,UI UX,26
+7,C,25
+8,Kotlin,20
+9,React Native,20
+10,API,19
+11,Objective C,17
+12,Firebase,15
+13,Java,14
+14,SwiftUI,14
+15,Jira,14
 16,ci cd,13
 17,unity,12
 18,combine,11
